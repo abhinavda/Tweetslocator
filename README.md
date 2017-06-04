@@ -1,7 +1,7 @@
 # Tweetslocator
 Displays location of tweets in realtime
 
-https://cloud.githubusercontent.com/assets/27103067/26765061/75a9d1d0-4939-11e7-91e7-9f713c41c841.png
+![screen shot 2017-06-04 at 1 47 16 pm](https://cloud.githubusercontent.com/assets/27103067/26765061/75a9d1d0-4939-11e7-91e7-9f713c41c841.png)
 
 Intent:
 Twitter exposes an API to use its data
